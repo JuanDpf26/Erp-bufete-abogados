@@ -62,7 +62,7 @@ El proyecto se gestiona bajo un enfoque **ágil (Scrum)**, utilizando:
 |----------|----|------------------|
 | Juan Diego Pinzón Fontecha | Product Owner / Administrador | Definición de requerimientos, validación del producto |
 | Carlos Felipe Avilan Payares | Backend Developer | Lógica del negocio, base de datos, módulos ERP |
-| Juan Esteban Agredo Santamaria | Frontend Developer / QA | Interfaz de usuario, pruebas y documentación |
+| Santiago Forero Diáz | Frontend Developer / QA | Interfaz de usuario, pruebas y documentación |
 
 ---
 
