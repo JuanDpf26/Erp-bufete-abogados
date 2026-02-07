@@ -6,7 +6,7 @@ Este proyecto corresponde al desarrollo de un **Sistema ERP (Enterprise Resource
 
 El sistema permite gestionar de manera eficiente áreas clave como clientes, proveedores, inventarios, recursos humanos, nómina, contabilidad, facturación, control de ventas y seguimiento de casos legales, garantizando seguridad, trazabilidad y cumplimiento normativo.
 
-Este proyecto se desarrolla como parte del curso **Estándares y Métricas de Calidad de Software** de la **Universidad Manuela Beltrán**.
+Este proyecto se desarrolla como parte del curso **Sistemas Transaccionales** de la **Universidad Manuela Beltrán**.
 
 ---
 
