@@ -62,23 +62,77 @@ El proyecto se gestiona bajo un enfoque **ágil (Scrum)**, utilizando:
 |----------|----|------------------|
 | Juan Diego Pinzón Fontecha | Product Owner / Administrador | Definición de requerimientos, validación del producto |
 | Carlos Felipe Avilan Payares | Backend Developer | Lógica del negocio, base de datos, módulos ERP |
-| Santiago Forero Diaz  | Frontend Developer / QA | Interfaz de usuario, pruebas y documentación |
+| Juan Esteban Agredo Santamaria | Frontend Developer / QA | Interfaz de usuario, pruebas y documentación |
 
 ---
 
+## Gestión del Proyecto en GitHub
 
+El proyecto se organiza de la siguiente manera:
+
+- **Branches**
+  - `main`: versión estable
+  - `develop`: integración de funcionalidades
+  - `feature/*`: desarrollo por módulos
+
+- **Issues**
+  - Cada Historia de Usuario se gestiona como un Epic.
+  - Las tareas técnicas se descomponen en Issues individuales.
+
+- **GitHub Projects**
+  - Tablero Kanban con las columnas:
+    - Backlog
+    - To Do
+    - In Progress
+    - In Review
+    - Testing
+    - Done
+
+- **Milestones**
+  - Sprint 1 – Módulos Base del ERP
+
+---
+
+## Requerimientos del Sistema
+
+### Requerimientos Funcionales
+- Registro y gestión de clientes, proveedores y empleados.
+- Seguimiento de casos legales.
+- Generación de cotizaciones, órdenes de servicio y facturación.
+- Control de inventarios y compras.
+- Gestión de nómina y contabilidad.
+- Generación de reportes financieros y administrativos.
+
+### Requerimientos No Funcionales
+- Soporte mínimo de 100 usuarios concurrentes.
+- Tiempo de respuesta menor a 2 segundos.
+- Autenticación segura y control de accesos por roles.
+- Encriptación de datos sensibles.
+- Disponibilidad del sistema del 99.9%.
+
+---
 
 ## Tecnologías (proyectadas)
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** php
-- **Base de Datos:** MySQL
+- **Base de Datos:** phpMyAdmin y Workbench
 - **Control de versiones:** Git / GitHub
 
 ---
 
+## Estado del Proyecto
 
+📌 **En desarrollo – Sprint 1**
+
+Actualmente se encuentra en fase de:
+- Análisis de requerimientos
+- Diseño de la arquitectura del sistema
+- Configuración de la plataforma de gestión del proyecto
+
+---
 
 ## Licencia
 
 Proyecto académico desarrollado con fines educativos.
+
